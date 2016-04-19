@@ -7,7 +7,7 @@ En la primera sesión haremos una sencilla aplicación con Grails para poder ver
 # 1 Instalar SDK MAN
 SDKMAN! es una herramienta para la gestión de versiones de múltiples kists de desarrollo de sofware en su mayoría de los que están basdos en Unix.
 Lo usaremos para instalar Grails. Es una definición más simple si has usado node SDKMAN sería tú nvm o en el caso de python tú pip.
-- Para la instalación sigue los siguientes pasos en tu consola.
+- Para la instalación sigue los siguientes pasos en tu terminal.
 ```
 $ curl -s get.sdkman.io | bash
 ```
